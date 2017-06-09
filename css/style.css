@@ -2,6 +2,7 @@ body{
 	padding: 0;
 	margin: 0 auto;
 	overflow-x: hidden;
+	font-family: 'Lato', sans-serif;
 }
 
 /*primera sección*/
@@ -21,11 +22,7 @@ body{
 	font-weight: bold;
 }
 
-.img-1{
-	text-align: center;
-	margin-left: 50px;
-	margin-bottom: 30px;
-}
+
 
 /*segunda sección*/
 
@@ -58,9 +55,7 @@ body{
 	padding: 40px;
 }
 
-.img-3{
-	margin-top: 30px;
-}
+
 
 /*cuarta sección*/
 
